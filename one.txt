@@ -2,5 +2,3 @@ dd one1
 add mysql
 add dev
 add lianxi
-add python
-add js
