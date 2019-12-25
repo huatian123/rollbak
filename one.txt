@@ -3,3 +3,4 @@ add mysql
 add dev
 add lianxi
 add python
+add js
